@@ -1,0 +1,18 @@
+{
+  "fixie": [
+    {
+      "name": "qweqeqw",
+      "description": "qweqweqqweqw",
+      "cost": "qweqweqw",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUqDyUO1CIW7ILrd6p6UMbgRUILLVFnIdP7Z6WA0y__jjYyR9ek-_e1zI_uRGtwNJtC10&usqp=CAU",
+      "id": 1
+    },
+    {
+      "name": "qweqwe",
+      "description": "qweqweqфыв",
+      "cost": "12321412",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiRCXkEQWYulsjZJEdPToUur3A8Er3Nzev79LbBOc8OI4Wi2Weid66flkgB3oWSuwzex8&usqp=CAU",
+      "id": 2
+    }
+  ]
+}
